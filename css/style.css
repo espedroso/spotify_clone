@@ -22,9 +22,14 @@ h1{
     padding: 16px 0px 0px 16px;
 }
 
-.logo img{
+.sidebar__navigation .logo img{
     width: 80px;
     
+}
+
+.sidebar ul {
+    margin-top: 20px;
+    padding: 0px 20px 10px 20px;
 }
 
 .sidebar ul li {
