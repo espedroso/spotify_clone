@@ -10,7 +10,7 @@
 
 }
 
-.header__navigation{
+.header-navigation{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -26,10 +26,11 @@
     align-items: center;
 
 }
+
 .header__navigation .navigation .arrow-left{
     margin-right: 1.25rem;
 }
-.arrow-rigth, .arrow-rigth{
+.arrow-left, .arrow-right{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,7 +70,7 @@
 .header__search input{
     background: transparent;
     border: none;
-    padding: 0 px 100px 0px 12px;
+    padding: 0px 100px 0px 12px;
     color: #ffffff;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -93,7 +94,7 @@
     color: #000000;
     font-size: 16px;
     font-weight: 700;
-    border-radius: 10px;
+    border-radius: 40px;
     
 }
 
