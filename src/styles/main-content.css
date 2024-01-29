@@ -7,9 +7,10 @@
     height: 100vh;
     margin-left: 320px;
     margin-right: 56px;
+    
   }
 
-.header-navigation{
+.header__navigation{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -86,6 +87,7 @@
     font-weight: 700;
     background-color: transparent;
     margin-right: 32px;
+    border: none;
 
 }
 
